@@ -1,0 +1,5 @@
+coala-utils
+beautifulsoup4
+lxml
+requests
+billiard
